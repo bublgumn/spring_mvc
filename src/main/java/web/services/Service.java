@@ -1,4 +1,4 @@
-package services;
+package web.services;
 
 import web.model.Car;
 

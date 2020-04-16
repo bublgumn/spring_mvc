@@ -5,8 +5,8 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import services.FakeService;
-import services.Service;
+import web.services.FakeService;
+import web.services.Service;
 
 import java.util.ArrayList;
 import java.util.List;

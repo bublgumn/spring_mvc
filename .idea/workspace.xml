@@ -9,7 +9,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca223d7-6bbc-4f8b-9720-c1e8bf7e2c15" name="Default" comment="" />
+    <list default="true" id="6ca223d7-6bbc-4f8b-9720-c1e8bf7e2c15" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/FakeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/services/FakeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/services/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -53,6 +60,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aTJ8QmX4ntLUauI15Vsb7hwbKM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -232,6 +240,7 @@
       <workItem from="1574686584329" duration="136000" />
       <workItem from="1586753500446" duration="4330000" />
       <workItem from="1586945615156" duration="8031000" />
+      <workItem from="1587021591489" duration="293000" />
     </task>
     <servers />
   </component>
@@ -251,6 +260,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586961059473" />
+    <state x="631" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587021871716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587021871716" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586960170255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
